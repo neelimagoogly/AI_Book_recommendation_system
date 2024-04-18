@@ -1,0 +1,9 @@
+### dependency
+streamlit
+numpy
+scipy==1.8.0
+scikit-learn
+
+
+### local packages -
+-e . 
